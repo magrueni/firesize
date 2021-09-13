@@ -3,3 +3,4 @@
 .RData
 .Ruserdata
 dir_to_ignore/data
+.Rproj
